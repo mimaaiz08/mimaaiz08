@@ -10,7 +10,7 @@ Currently focused on strengthening my skills in **software engineering, backend 
 
 **Mangalore, India**
 
-[LinkedIn](https://linkedin.com/in/muhammedismailmaaiz) · [Portfolio](https://v0-portfolio-maaiz.vercel.app/) · [GitHub](https://github.com/mimaaiz08)
+[LinkedIn](https://linkedin.com/in/muhammedismailmaaiz) · [Portfolio](https://v0-portfolio-maaiz.vercel.app/)
 
 ---
 
@@ -44,7 +44,7 @@ Currently focused on strengthening my skills in **software engineering, backend 
 
 ## 🚀 Selected Projects
 
-### Gage
+### 🌱 Gage
 
 **Smart Agriculture Monitoring · FastAPI · ESP32 · IoT**
 
@@ -59,7 +59,7 @@ An ESP32-based agriculture monitoring system integrating environmental and soil 
 
 ---
 
-### VoltShare
+### ⚡ VoltShare
 
 **EV Energy Sharing · ESP32 · IoT · Product Design**
 
@@ -75,7 +75,7 @@ A smart EV charging concept designed to enable property owners to share charging
 
 ---
 
-### SignLink
+### 🤟 SignLink
 
 **AI Sign Language Interpreter · Python · MediaPipe · TensorFlow Lite**
 
@@ -86,32 +86,6 @@ An AI-powered system for real-time recognition of A–Z sign language gestures.
 * Gesture-to-text conversion
 * Text-to-speech output
 * Web-based interface
-
----
-
-### Chatrix
-
-**Real-Time Chat · Python · Backend · Google Gemini**
-
-A real-time chat application combining local-network communication with an integrated AI assistant.
-
-* End-to-end encrypted communication
-* Local-network messaging
-* Google Gemini integration
-* AI interaction through the `/ai` command
-
----
-
-### GeoAI Mapper
-
-**Machine Learning · Python · Geospatial Visualization**
-
-A machine-learning application for identifying potential mineral-rich zones from geological datasets.
-
-* Geological dataset processing
-* Machine-learning based prediction
-* Geospatial visualization of predicted zones
-* Visualization of model outputs for interpretation
 
 ---
 
@@ -158,7 +132,6 @@ P. A. College of Engineering · 2023–2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhammedismailmaaiz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://v0-portfolio-maaiz.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/mimaaiz08)
 
 ---
 
