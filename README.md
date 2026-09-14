@@ -10,7 +10,7 @@ Currently focused on strengthening my skills in **software engineering, backend 
 
 **Mangalore, India**
 
-[LinkedIn](https://linkedin.com/in/muhammedismailmaaiz) · [Portfolio](https://v0-portfolio-maaiz.vercel.app/)
+**[LinkedIn](https://linkedin.com/in/muhammedismailmaaiz)** · **[Portfolio](https://v0-portfolio-maaiz.vercel.app/)** · **[Email](mailto:muhammedismailmaaiz@gmail.com)** · **[LeetCode](https://leetcode.com/u/mimaaiz041/)** · **[Wokwi](https://wokwi.com/projects/470309322726067201)**
 
 ---
 
@@ -132,6 +132,9 @@ P. A. College of Engineering · 2023–2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhammedismailmaaiz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://v0-portfolio-maaiz.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:muhammedismailmaaiz@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/mimaaiz041/)
+[![Wokwi](https://img.shields.io/badge/Wokwi-000000?style=flat-square\&logo=wokwi\&logoColor=white)](https://wokwi.com/projects/470309322726067201)
 
 ---
 
